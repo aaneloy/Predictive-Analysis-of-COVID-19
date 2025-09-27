@@ -24,7 +24,7 @@ plotly==4.6.0
 pluggy==0.12.0
 ply==3.11
 tornado==6.0.3
-voila==0.1.21
+voila==0.5.12
 voila-gridstack==0.0.8
 voila-vuetify==0.2.2
 voila-material==0.2.5
